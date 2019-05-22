@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-const char* ssid     = ""; // Your ssid
-const char* password = ""; // Your Password
+const char* ssid     = "SmartBridge"; // Your ssid
+const char* password = "smartbridge@sb"; // Your Password
 
 float temp_celsius = 0;
 float temp_fahrenheit = 0;
